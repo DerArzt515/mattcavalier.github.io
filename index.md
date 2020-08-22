@@ -3,87 +3,87 @@
 
 1.  [Games](#org77f0c28)
     1.  [House Of Danger](#orgde1e38b)
-        1.  [Description](#org4a10f7a)
+        
     2.  [A Fake Artist Goes to New York](#org64cca4d)
-        1.  [Description](#org899b90a)
+        
     3.  [Epic Spell Wars of the Battle Wizards: Duel at Mt. Skulllzfyre](#orgd136758)
-        1.  [Description](#org1f7a4be)
+        
     4.  [Secret Hitler](#orgf7be4ee)
-        1.  [Description](#org7bd88ac)
+        
     5.  [Dominion](#org1ba0b35)
-        1.  [Description](#org23f5a7f)
+        
     6.  [Dominion Seaside](#org030d124)
-        1.  [Description](#org0e96c62)
+        
     7.  [Dominion Dark Ages](#org1728aaa)
-        1.  [Description](#org1b647da)
+        
     8.  [Dominion Hinterlands](#orgd5768fd)
-        1.  [Description](#orgeeb2609)
+        
     9.  [Betrayal at House on the Hill](#org7113b5d)
-        1.  [Description](#org0d0acde)
+        
     10. [Terraforming Mars](#org0734c4d)
-        1.  [Description](#org0035f84)
+        
     11. [Ticket To Ride](#org92f8878)
-        1.  [Description](#org0fce914)
+        
     12. [Ticket To Ride Europe](#org1cd4642)
-        1.  [Description](#orgc3cb157)
+        
     13. [7 Wonders](#org0e23267)
-        1.  [Description](#org6538030)
+        
     14. [Ascension](#orgc8f14f8)
-        1.  [Description](#org92c7840)
+        
     15. [Coup](#org44489aa)
-        1.  [Description](#orgef581e9)
+        
     16. [We Didn&rsquo;t Playtest This at All](#org9c6dc1d)
-        1.  [Description](#org25cbd39)
+        
     17. [We Didn&rsquo;t Playtest This Either](#orge1a96f6)
-        1.  [Description](#org1888bdb)
+        
     18. [Bang!](#org374e2dd)
-        1.  [Description](#orgff6d0ea)
+        
     19. [Exploding Kittens Party Pack](#orgdb28a5d)
-        1.  [Description](#org089c94c)
+        
     20. [Cards Against Humanity](#orgd87d073)
-        1.  [Description](#orge4e0c86)
+        
     21. [Joking Hazard](#orgf87e00d)
-        1.  [Description](#org45128ab)
+        
     22. [SpyFall](#orgfa48944)
-        1.  [Description](#orgc09ecb0)
+        
     23. [Fluxx](#orgec6481f)
-        1.  [Description](#org52715cb)
+        
     24. [Batman Fluxx](#org1181c1d)
-        1.  [Description](#org0ee52cf)
+        
     25. [Marvel Flux](#org5f61ab3)
-        1.  [Description](#org9b22f72)
+        
     26. [Monster Flux](#org4d1e169)
-        1.  [Description](#org76c3d1c)
+        
     27. [Exploding Kittens + Imploding Kittens + Streaking Kittens](#org83dfe9f)
-        1.  [Description](#org23364c2)
+        
     28. [Azul: Stained Glass of Cintra](#org56415ff)
-        1.  [Description](#org4c85637)
+        
     29. [Concordia](#orgdb28d2f)
-        1.  [Description](#org39e004d)
+        
     30. [Catan](#orgcc8f8c4)
-        1.  [Description](#org59ac165)
+        
     31. [Star Wars X-Wing](#orgf740026)
-        1.  [Description](#org7fe030b)
+        
     32. [Fog Of Love](#org36f6d42)
-        1.  [Description](#orga9b77d4)
+        
     33. [Axis & Allies](#org6703211)
-        1.  [Description](#orgd26d681)
+        
     34. [Pandemic](#org12fa594)
-        1.  [Description](#orgb07d011)
+        
     35. [Kingdom Builder](#org5e29513)
-        1.  [Description](#orgd83db56)
+        
     36. [Carcassonne](#org34cf7c2)
-        1.  [Description](#orgcd328d7)
+        
     37. [Harry Potter Hogwarts Battle](#orge6c94f2)
-        1.  [Description](#orgc28d96b)
+        
     38. [Smash Up](#org4aa5a6b)
-        1.  [Description](#orgf0dd154)
+        
     39. [Guillotine](#orge9a20f9)
-        1.  [Description](#org53e26d4)
+        
     40. [Concept](#orgf2ae6fe)
-        1.  [Description](#org15a4279)
+        
     41. [Bourré](#org9bede8a)
-        1.  [Description](#org04b815b)
+        
         2.  [Introduction](#org284a852)
         3.  [Players and Cards](#org73669a3)
         4.  [Ante and Deal](#org8175d78)
@@ -92,7 +92,7 @@
         7.  [Payments](#org4787409)
         8.  [Variations](#org1dcc231)
     42. [Eleusis](#org7964691)
-        1.  [Description](#org1b1dcd6)
+        
         2.  [Rules](#org1e5218b)
         3.  [Notes for New Players](#org0503225)
         4.  [General:](#org2eaabe4)
